@@ -9,7 +9,7 @@ export const matchTitle = {
 }
 
 export const matchMessage = {
-    English: `Your're about to begin your journey to match a scout that fits your preferences. \n\n Are you ready?`,
+    English: `You're about to begin your journey to match a scout that fits your preferences. \n\n Are you ready?`,
     Italian: `Stai per iniziare il tuo percorso per fare match con uno scout. \n\n Sei pronto?`,
 }
 
